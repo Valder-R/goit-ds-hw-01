@@ -1,0 +1,15 @@
+[project]
+name = "goit-ds-hw-01"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Volodymyr_Rostovtsev",email = "fortik1510@gmail.com"}
+]
+requires-python = "3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
